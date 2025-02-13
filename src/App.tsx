@@ -266,7 +266,7 @@ function App() {
       <header className="py-8 text-center">
         <div className="flex items-center justify-center gap-2 mb-4">
           <Heart className="w-8 h-8 text-rose-500 animate-pulse" />
-          <h1 className="text-4xl font-serif text-rose-800">My Valentine's Library</h1>
+          <h1 className="text-4xl font-serif text-rose-800">Senami's Collection</h1>
           <Heart className="w-8 h-8 text-rose-500 animate-pulse" />
         </div>
         <p className="text-rose-600 italic">
