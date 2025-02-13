@@ -269,7 +269,10 @@ function App() {
           <h1 className="text-4xl font-serif text-rose-800">My Valentine's Library</h1>
           <Heart className="w-8 h-8 text-rose-500 animate-pulse" />
         </div>
-        <p className="text-rose-600 italic">A collection of books curated with love, just for you ❤️</p>
+        <p className="text-rose-600 italic">
+        Once upon a time, there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.
+        </p>
+
       </header>
 
       {/* Main Content */}
@@ -316,7 +319,8 @@ function App() {
       {/* Footer */}
       <footer className="text-center py-8 text-rose-700">
         <p className="flex items-center justify-center gap-2">
-          Made with <Heart className="w-4 h-4 fill-current" /> for you
+          {/* Made with <Heart className="w-4 h-4 fill-current" /> for you */}
+          Loved you yesterday, love you still, always have, always will.
         </p>
       </footer>
     </div>
