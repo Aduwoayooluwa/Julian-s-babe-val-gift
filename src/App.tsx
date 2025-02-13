@@ -223,9 +223,9 @@ const books: Book[] = [
     description: "A suspenseful contemporary romance where hidden pasts and buried secrets ignite a dangerous love story."
   },
   {
-    downloadUrl: "Things we Left behind",
+    downloadUrl: "https://drive.google.com/file/d/1riiSmlqr2815GGimB8HpxJ7YDp8jHysu/view?usp=sharing",
     coverUrl: ThingsWeLeft,
-    title: "https://drive.google.com/file/d/1riiSmlqr2815GGimB8HpxJ7YDp8jHysu/view?usp=sharing",
+    title: "Things we Left behind",
     author: "Lucy Score",
     description: "A tender romance exploring the lingering pain of loss and the hope found in healing."
   },
