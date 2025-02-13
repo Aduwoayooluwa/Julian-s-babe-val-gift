@@ -183,7 +183,7 @@ const books: Book[] = [
   {
     downloadUrl: "https://drive.google.com/file/d/1bD8hnmGzbTMq4cKieZ_MlpWBmbfLGPFU/view?usp=sharing",
     coverUrl: SovereignLove3,
-    title: "The One Who Knows Me - Sovereign Love Book Three",
+    title: "The One Who Sees Me - Sovereign Love Book Three",
     author: "Joan Embola",
     description: "A turbulent continuation where burning passion clashes with deceit, redefining love in the sovereign series."
   },
