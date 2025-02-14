@@ -176,7 +176,7 @@ const books: Book[] = [
   {
     downloadUrl: "https://drive.google.com/file/d/1amMPino25isz6CLZsA6_53iVidyH2yov/view?usp=sharing",
     coverUrl: SovereignLove2,
-    title: "The One Who Knows Me - Sovereign Love Book Two",
+    title: "The One Who Loves Me - Sovereign Love Book Two",
     author: "Joan Embola",
     description: "A deeper journey of love and betrayal as secrets intensify in the sovereign love saga."
   },
